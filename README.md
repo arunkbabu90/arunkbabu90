@@ -18,6 +18,7 @@
 + Main Focus
 <img align="left" src="https://img.shields.io/badge/Advanced-Android-brightgreen">
 <img align="left" src="https://img.shields.io/badge/Advanced-Android%20SDK-brightgreen">
+<br><br>
 
 + Key
 
@@ -26,14 +27,17 @@
 <img align="left" src="https://img.shields.io/badge/Beginner-Dagger2-brightgreen">
 <img align="left" src="https://img.shields.io/badge/Beginner-Hilt-brightgreen">
 <img align="left" src="https://img.shields.io/badge/Intermediate-MVVM-yellow">
+<br><br>
 
 
 + Frameworks
 <img align="left" src="https://img.shields.io/badge/Beginner-Flutter-blue">
 <img align="left" src="https://img.shields.io/badge/Beginner-ReactJS-blue">
+<br><br>
 
 + Platforms
 <img align="left" src="https://img.shields.io/badge/Intermediate-Firebase-yellow">
+<br><br>
 
 + Front-end
 
