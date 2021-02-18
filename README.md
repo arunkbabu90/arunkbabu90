@@ -8,7 +8,7 @@
 
 <div style="text-align:center;">
   <img align="center" height="180px" alt="arunkbabu90's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arunkbabu90&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=45,FFE53B,FF2525&title_color=000000&text_color=000000&icon_color=000000" />
-  <img align="center" height="180px" alt="arunkbabu90's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkbabu90&bg_color=45,616161,212121&title_color=000000&text_color=FFFFFF&icon_color=000000&layout=compact&hide_border=true" />
+  <img align="center" height="180px" alt="arunkbabu90's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkbabu90&bg_color=45,212121,212121&title_color=e0e0e0&text_color=bdbdbd&icon_color=000000&layout=compact&hide_border=true" />
 </div>
 
 <br>
