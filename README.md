@@ -22,24 +22,23 @@
 
 + Key
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Pagination-red">
-<img align="left" src="https://img.shields.io/badge/Beginner-Dependency%20Injection-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Dagger2-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Hilt-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-MVVM-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Pagination-blue">
+<img align="left" src="https://img.shields.io/badge/Beginner-Dependency%20Injection-blue">
+<img align="left" src="https://img.shields.io/badge/Beginner-Dagger2-blue">
+<img align="left" src="https://img.shields.io/badge/Beginner-Hilt-blue">
+<img align="left" src="https://img.shields.io/badge/Intermediate-MVVM-blue">
 <img align="left" src="https://img.shields.io/badge/Intermediate-Material%20Design%202-blue">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Room-orange">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Room-blue">
 <img align="left" src="https://img.shields.io/badge/Beginner-Navigation--Component-blue">
-<br><br>
-
-
-+ Frameworks
-<img align="left" src="https://img.shields.io/badge/Beginner-Flutter-blue">
-<img align="left" src="https://img.shields.io/badge/Beginner-ReactJS-blue">
 <br><br>
 
 + Platforms
 <img align="left" src="https://img.shields.io/badge/Intermediate-Firebase-yellow">
+<br><br>
+
++ Frameworks
+<img align="left" src="https://img.shields.io/badge/Beginner-Flutter-blue">
+<img align="left" src="https://img.shields.io/badge/Beginner-ReactJS-blue">
 <br><br>
 
 + Front-end
