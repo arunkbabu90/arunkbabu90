@@ -39,10 +39,10 @@
 
 + Databases
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Firestore-green">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase%20Realtime%20Database-green">
-<img align="left" src="https://img.shields.io/badge/Intermediate-MySQL-green">
-<img align="left" src="https://img.shields.io/badge/Intermediate-SQLite-green">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firestore-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase%20Realtime%20Database-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-MySQL-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-SQLite-yellow">
 <br><br>
 
 + Platforms
