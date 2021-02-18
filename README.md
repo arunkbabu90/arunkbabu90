@@ -61,8 +61,8 @@
 + General Purpose Programming
 
 <img align="left" src="https://img.shields.io/badge/Intermediate-Kotlin-blue">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Java-blue">
-<img align="left" src="https://img.shields.io/badge/Beginner-C-blue">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Java-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-C-yellow">
 <br><br>
 
 + Version Control
@@ -79,7 +79,7 @@
 
 + Package Management
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Gradle-green">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Gradle-brightgreen">
 <br><br>
 
 + Other
