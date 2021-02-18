@@ -15,35 +15,48 @@
 
 ### Technologies & Tools
 
-+ Back-end
++ Main Focus
+<img align="left" src="https://img.shields.io/badge/Advanced-Android-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Advanced-Android%20SDK-brightgreen">
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Node.JS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Express.js-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-EJS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-PHP-brightgreen">
-<br><br>
++ Key
+
+<img align="left" src="https://img.shields.io/badge/Intermediate-Pagination-red">
+<img align="left" src="https://img.shields.io/badge/Beginner-Dependency%20Injection-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Beginner-Dagger2-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Beginner-Hilt-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-MVVM-yellow">
+
+
++ Frameworks
+<img align="left" src="https://img.shields.io/badge/Beginner-Flutter-blue">
+<img align="left" src="https://img.shields.io/badge/Beginner-ReactJS-blue">
+
++ Platforms
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase-yellow">
 
 + Front-end
 
-<img align="left" src="https://img.shields.io/badge/Advanced-JavaScript-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-ES7-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-CSS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Angular-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-XML-blue">
+<img align="left" src="https://img.shields.io/badge/Beginner-CSS-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Beginner-Dart-blue">
 <img align="left" src="https://img.shields.io/badge/Beginner-React-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Beginner-HTML-brightgreen">
 <br><br>
 
 + Databases
 
-<img align="left" src="https://img.shields.io/badge/Advanced-MySQL-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-Postgresql-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-MongoDB-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firestore-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase%20Realtime%20Database-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-MySQL-green">
+<img align="left" src="https://img.shields.io/badge/Intermediate-SQLite-green">
 <br><br>
 
 + General Purpose Programming
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Python-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-Java-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Spring Boot-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Kotlin-blue">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Java-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-C-yellow">
 <br><br>
 
 + Version Control
@@ -55,19 +68,20 @@
 + Data Transport
 
 <img align="left" src="https://img.shields.io/badge/Intermediate-REST API-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-JSON-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Advanced-XML-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-JSON-brightgreen">
 <br><br>
 
 + Package Management
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-NPM-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-PIP-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-MVN-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Gradle-green">
 <br><br>
 
 + Other
 
-<img align="left" src="https://img.shields.io/badge/Advanced-HTML-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-AJAX-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-SVG-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Advanced-Android%20Studio-brightgreen">
+<img align="left" src="https://img.shields.io/badge/Intermediate-IntelliJ%20IDEA-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-Visual%20Studio-blue">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Atom-green">
+
+
+
