@@ -20,15 +20,15 @@
 <img align="left" src="https://img.shields.io/badge/Advanced-Android%20SDK-brightgreen">
 <br><br>
 
-+ Key Knowledge
++ Key
 
 <img align="left" src="https://img.shields.io/badge/Intermediate-Pagination-red">
 <img align="left" src="https://img.shields.io/badge/Beginner-Dependency%20Injection-brightgreen">
 <img align="left" src="https://img.shields.io/badge/Beginner-Dagger2-brightgreen">
 <img align="left" src="https://img.shields.io/badge/Beginner-Hilt-brightgreen">
 <img align="left" src="https://img.shields.io/badge/Intermediate-MVVM-yellow">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Android--Jetpack-yellowgreen">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Room-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Material%20Design%202-blue">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Room-orange">
 <img align="left" src="https://img.shields.io/badge/Beginner-Navigation--Component-blue">
 <br><br>
 
