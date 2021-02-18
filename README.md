@@ -30,7 +30,7 @@
 <img align="left" src="https://img.shields.io/badge/Intermediate-Material%20Design%202-blue">
 <img align="left" src="https://img.shields.io/badge/Intermediate-Room-blue">
 <img align="left" src="https://img.shields.io/badge/Beginner-Navigation--Component-blue">
-<br><br>
+<br><br><br>
 
 + Platforms
 <img align="left" src="https://img.shields.io/badge/Intermediate-Firebase-yellow">
