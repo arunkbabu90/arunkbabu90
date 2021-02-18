@@ -32,30 +32,30 @@
 <img align="left" src="https://img.shields.io/badge/Beginner-Navigation--Component-blue">
 <br><br><br>
 
-+ Platforms
-<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase-yellow">
-<br><br>
-
 + Frameworks
 <img align="left" src="https://img.shields.io/badge/Beginner-Flutter-blue">
 <img align="left" src="https://img.shields.io/badge/Beginner-ReactJS-blue">
 <br><br>
 
-+ Front-end
-
-<img align="left" src="https://img.shields.io/badge/Intermediate-XML-blue">
-<img align="left" src="https://img.shields.io/badge/Beginner-CSS-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-Dart-blue">
-<img align="left" src="https://img.shields.io/badge/Beginner-React-brightgreen">
-<img align="left" src="https://img.shields.io/badge/Beginner-HTML-brightgreen">
-<br><br>
-
 + Databases
 
-<img align="left" src="https://img.shields.io/badge/Intermediate-Firestore-yellow">
-<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase%20Realtime%20Database-yellow">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firestore-green">
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase%20Realtime%20Database-green">
 <img align="left" src="https://img.shields.io/badge/Intermediate-MySQL-green">
 <img align="left" src="https://img.shields.io/badge/Intermediate-SQLite-green">
+<br><br>
+
++ Platforms
+<img align="left" src="https://img.shields.io/badge/Intermediate-Firebase-yellow">
+<br><br>
+
++ Front-end
+
+<img align="left" src="https://img.shields.io/badge/Intermediate-XML-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-CSS-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-Dart-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-React-orange">
+<img align="left" src="https://img.shields.io/badge/Beginner-HTML-orange">
 <br><br>
 
 + General Purpose Programming
