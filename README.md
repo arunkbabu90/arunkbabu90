@@ -1,7 +1,7 @@
 ## <a href="https://arunkbabu90.github.io/">Arun K Babu</a>
 <br>
 
-###### Arun is a Final Year MCA Student at Rajiv Gandhi Institute of Technology, Kottayam. He is a passionate developer who loves developing Android Applications and will do anything to acheive his target. I can guarantee you, he is the coolest developer you can ever find 😎
+###### Arun is an MCA Graduate from Rajiv Gandhi Institute of Technology, Kottayam. He is a passionate developer who loves developing Android Applications and will do anything to acheive his target. I can guarantee you, he is the coolest developer you can ever find 😎
 
 ### My Stats
 ---
